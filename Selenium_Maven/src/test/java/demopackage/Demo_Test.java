@@ -8,6 +8,7 @@ public class Demo_Test {
 	public void display() {
 		Reporter.log("First Demo Test",true);
 		Reporter.log("Added in GitHub",true);
+		Reporter.log("Again changed in Eclipse",true);
 	}
 
 }
